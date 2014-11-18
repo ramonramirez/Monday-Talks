@@ -20,7 +20,7 @@ led.prototype.StartBlinking = function (){
     $('.led').css( "background-color", 
     	that.colors[that.RandomColor(0,that.colors.length)]);
 
-}, 50); //Aqui se modifica el valor de refresco
+}, 100); //Aqui se modifica el valor de refresco
 	
 }
 
