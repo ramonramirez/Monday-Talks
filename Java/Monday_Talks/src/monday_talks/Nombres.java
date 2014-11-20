@@ -22,7 +22,7 @@ public class Nombres {
     private void initNombres(){
           this.Nombres = new ArrayList<String>();
           Nombres.add("MyName");
-          Nombres.add("Venus");
+          Nombres.add("Carlos");
     }
     
     public void greet(){
