@@ -28,8 +28,7 @@ public class Monday_Talks {
   
         int random =  (int)(Math.random() * Peliculas_Chidas.getPeliculas().size());
         Sytem.out.println("La pelicula más chida es " + Peliculas_Chidas.getPeliculas().get(random) );
-        
- 
+         
     
     }
     

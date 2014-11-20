@@ -16,7 +16,7 @@ public class Peliculas {
     private ArrayList<String> Peliculas;
 
     public Peliculas() {
-        initPeliculas();
+        this.initPeliculas();
     }
 
     private void initPeliculas() {
